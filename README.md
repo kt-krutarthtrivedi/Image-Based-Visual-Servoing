@@ -26,5 +26,5 @@ The robot reaches to the reference pose calculating the required joint angle usi
 
 ## Working video
 
-https://github.com/kt-krutarthtrivedi/Image-Based-Visual-Servoing/blob/main/media/Video.mp4
+https://github.com/kt-krutarthtrivedi/Image-Based-Visual-Servoing/assets/134632027/afda316f-8840-4de0-8791-41ed448f8163
 
